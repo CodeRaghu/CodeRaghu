@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Python and Data Science
 - 💞️ I’m looking to collaborate on Learning, Teaching and Mentoring
 - 📫 How to reach me ...
+- NOTE: having same name for repo as User, makes it a special Repository. And ReadMe.md file makes it public. 
 
 <!---
 CodeRaghu/CodeRaghu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
